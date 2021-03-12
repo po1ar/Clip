@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Ever wanted to quickly access all of the stuff you've copied? Now you can with Clip - An Electron Based Clipboard Manager. Simply put, you can access up to 100 different things you've copied, in just two clicks.
+Ever wanted to quickly access all of the stuff you've copied? Now you can with Clip. Simply put, you can access up to 100 different things you've copied, in just two clicks.
 
 ![clipinaction](clipinaction.gif)
 
@@ -71,7 +71,7 @@ This section lets you edit up to how many copies it captures.
 #### Clear Clipboard History
 This section lets you clear all of the copies you've made.
 
-![clearallclips.gif](clearallclips.gif)
+![clearallclip.gif](clearallclip.gif)
 
 <!-- ROADMAP -->
 ## Roadmap
