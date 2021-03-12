@@ -61,16 +61,22 @@ Here's how to use Clip.
 ### Main Screen
 
 Here you have the main menu for Clip. Let's go over each section.
-![menu bar.png](menu bar.png)
+![menubar.png](menubar.png)
 
+#### Clip History Limit
+This section lets you edit up to how many copies it captures.
+
+![changeamountofclips.png](changeamountofclips.png)
+
+#### Clear Clipboard History
+This section lets you clear all of the copies you've made.
+
+![clearallclips.gif](clearallclips.gif)
 
 <!-- ROADMAP -->
 ## Roadmap
 
 See the [open issues](https://github.com/po1ar/Clip/issues) for a list of proposed features (and known issues).
-
-
-
 
 <!-- CONTACT -->
 ## Contact
