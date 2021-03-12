@@ -58,17 +58,17 @@ This is an example of how you may give instructions on setting up Clip
 
 Here's how to use Clip.
 
-### Main Screen
+## Main Screen
 
 Here you have the main menu for Clip. Let's go over each section.
 ![menubar.png](menubar.png)
 
-#### Clip History Limit
+### Clip History Limit
 This section lets you edit up to how many copies it captures.
 
 ![changeamountofclips.png](changeamountofclips.png)
 
-#### Clear Clipboard History
+### Clear Clipboard History
 This section lets you clear all of the copies you've made.
 
 ![clearallclip.gif](clearallclip.gif)
