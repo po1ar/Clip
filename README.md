@@ -28,7 +28,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Clip In Action][clipinaction]](clipinaction.gif)
+![clipinaction]](clipinaction.gif)
 
 Ever wanted to quickly access all of the stuff you've copied? Now you can with Clip - An Electron Based Clipboard Manager. Simply put, you can access up to 100 different things you've copied, in just two clicks.
 
