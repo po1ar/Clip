@@ -41,6 +41,7 @@ This is an example of how you may give instructions on setting up Clip
 
 ### Installation
 
+#### Mac
 1. Head over [here to install Clip.](https://github.com/po1ar/Clip/releases/)
 2. Click the file that corrosponds to your OS and let it download.
 3. Head over to Terminal (Click Launchpad (lil rocketship) and then search up Terminal and open it).
@@ -50,8 +51,12 @@ This is an example of how you may give instructions on setting up Clip
    ```
    and enter your password
    
-4. Open up Clip-App in your downloads and you should be all set!
+4. Open up the file and follow the directions.
+5. Clip should be fully installed!
 
+
+#### Windows 
+![wininstaller.gif](wininstaller.gif)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
