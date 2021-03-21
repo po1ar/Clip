@@ -86,9 +86,9 @@ See the [open issues](https://github.com/po1ar/Clip/issues) for a list of propos
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@polar0101](https://twitter.com/polar0101)
+[@polar0101](https://twitter.com/polar0101)
 
-Project Link: [https://github.com/po1ar/Clip](https://github.com/po1ar/Clip)
+[https://github.com/po1ar/Clip](https://github.com/po1ar/Clip)
 
 
 
