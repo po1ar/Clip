@@ -44,15 +44,8 @@ This is an example of how you may give instructions on setting up Clip
 #### Mac
 1. Head over [here to install Clip.](https://github.com/po1ar/Clip/releases/)
 2. Click the file that corrosponds to your OS and let it download.
-3. Head over to Terminal (Click Launchpad (lil rocketship) and then search up Terminal and open it).
-4. Enter this command for Mac:
-   ```sh
-   sudo spctl --master-disable
-   ```
-   and enter your password
-   
-4. Open up the file and follow the directions.
-5. Clip should be fully installed!
+3. Follow the directions of the installer (drag the app to the applications folder)   
+4. Clip should be fully installed!
 
 
 #### Windows
@@ -63,6 +56,7 @@ This is an example of how you may give instructions on setting up Clip
 5. Open up "clip" in the folder
 6. Click more info and then run (don't worry, we are planning to fix the certification on it)
 7. Clip should be all good now
+
 ![wininstaller.gif](wininstaller.gif)
 
 <!-- USAGE EXAMPLES -->
