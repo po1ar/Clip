@@ -55,7 +55,14 @@ This is an example of how you may give instructions on setting up Clip
 5. Clip should be fully installed!
 
 
-#### Windows 
+#### Windows
+1. Head over [here to install Clip.](https://github.com/po1ar/Clip/releases/)
+2. Click the file that corrosponds to your OS and let it download.
+3. Wait for the file to download
+4. Extract the folder
+5. Open up "clip" in the folder
+6. Click more info and then run (don't worry, we are planning to fix the certification on it)
+7. Clip should be all good now
 ![wininstaller.gif](wininstaller.gif)
 
 <!-- USAGE EXAMPLES -->
